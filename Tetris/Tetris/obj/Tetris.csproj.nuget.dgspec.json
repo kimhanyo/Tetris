@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Windows10\\Desktop\\공_김요한_부\\공부\\2학년 1학기\\C#\\중간고사(테트리스)\\Tetris\\Tetris\\Tetris.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Windows10\\Desktop\\공_김요한_부\\공부\\2학년 1학기\\C#\\중간고사(테트리스)\\Tetris\\Tetris\\Tetris.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Windows10\\Desktop\\공_김요한_부\\공부\\2학년 1학기\\C#\\중간고사(테트리스)\\Tetris\\Tetris\\Tetris.csproj",
+        "projectName": "Tetris",
+        "projectPath": "C:\\Users\\Windows10\\Desktop\\공_김요한_부\\공부\\2학년 1학기\\C#\\중간고사(테트리스)\\Tetris\\Tetris\\Tetris.csproj",
+        "packagesPath": "C:\\Users\\Windows10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Windows10\\Desktop\\공_김요한_부\\공부\\2학년 1학기\\C#\\중간고사(테트리스)\\Tetris\\Tetris\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Windows10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
